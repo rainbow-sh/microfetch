@@ -12,7 +12,7 @@ No bloat, just info.
 
 ## Install
 
-`curl https://raw.githubusercontent.com/Gcat101/microfetch/master/microfetch.sh > /usr/local/bin/microfetch && chmod +x /usr/local/bin/microfetch`
+`sudo curl https://raw.githubusercontent.com/Gcat101/microfetch/master/microfetch.sh > /usr/local/bin/microfetch && sudo chmod +x /usr/local/bin/microfetch`
 
 ## Usage
 
